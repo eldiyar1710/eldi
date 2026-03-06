@@ -9,7 +9,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/universities-app/',
+  base: '/new/',
   server: {
     port: 3000,
     open: true

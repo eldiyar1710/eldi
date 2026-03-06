@@ -6,7 +6,7 @@ import './index.css'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter basename="/universities-app">
+    <BrowserRouter basename="/new">
       <App />
     </BrowserRouter>
   </StrictMode>,
